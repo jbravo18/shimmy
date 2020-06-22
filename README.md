@@ -1,4 +1,4 @@
-# shimmy
+# shimmy is the name of this repo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 do eiusmod tempor incididunt ut labore et dolore magna aliqua.
